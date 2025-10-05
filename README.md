@@ -81,7 +81,7 @@ server/
 
 ### 🖥️ 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-event-management.git
+git clone https://github.com/Stoobyy/smart-event-management.git
 cd smart-event-management
 ```
 

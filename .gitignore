@@ -1,0 +1,5 @@
+client/client/.env
+server/.env
+smart-event-management/server/.env
+smart-event-management/client/client/.env
+smart-event-management/client/client/.env

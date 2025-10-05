@@ -129,17 +129,6 @@ npm run dev
 | Analytics | Custom route logic with MongoDB aggregation |
 | Deployment | Vercel / Render (optional) |
 
----
-
-## 📸 Screenshots
-
-| Page | Description |
-|------|--------------|
-| ![Login](screenshots/login.png) | User login modal |
-| ![Dashboard](screenshots/dashboard.png) | Event dashboard showing active events |
-| ![Admin Analytics](screenshots/analytics.png) | Admin analytics dashboard |
-
-*(Add your screenshots inside a `/screenshots` folder.)*
 
 ---
 
